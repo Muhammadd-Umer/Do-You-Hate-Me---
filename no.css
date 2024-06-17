@@ -1,0 +1,19 @@
+.iknow{ 
+    font-family: 'Nunito';
+    font-size: 40px;
+    font-weight: bold;
+    color: #a3d139;
+    text-align: center;
+}
+.img1{
+    position: absolute;
+    top: 150px;
+    left: 35%;
+}
+body{
+    background-color: aquamarine;
+}
+.H1{
+    font-size: 60px;
+    color:#808000 ;
+}

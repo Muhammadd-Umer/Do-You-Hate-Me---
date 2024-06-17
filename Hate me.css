@@ -1,0 +1,61 @@
+body{
+    background-color: aquamarine;
+}
+.do-you{
+    font-family: 'Nunito';
+    font-size: 40px;
+    font-weight: bold;
+    color: #a3d139;
+    text-align: center;
+}
+.img{
+    position: absolute;
+    top: 0px;
+    left: 31%;
+}
+#yesbutton{
+    position: relative;
+    width: 80px;
+    height: 40px;
+    transition: 0.2s;
+    cursor: pointer;
+    background-color: rgba(11, 188, 47, 0.885);
+    color: azure;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+    border-radius: 30px;
+    border-color: rgba(85, 153, 216, 0.971);
+    border-width: 4px;
+    border-style: solid;
+}
+.no{
+    width: 80px;
+    height: 40px;
+    margin-left: 60px;
+    cursor: pointer;
+    background-color: rgba(11, 188, 47, 0.885);
+    color: azure;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+    border-radius: 30px;
+    border-color: rgba(85, 153, 216, 0.971);
+    border-width: 4px;
+    border-style: solid;
+}
+.no:hover{
+    opacity: 0.5;
+}
+#yesbutton:hover{
+    opacity: 0.5;
+}
+div{
+    position: absolute;
+    top: 70%;
+    left: 41%;
+}
+.H{
+    font-size: 60px;
+    color:#808000 ;
+}
